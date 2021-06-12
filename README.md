@@ -11,3 +11,5 @@ Now let’s imagine we want to implement a facial recognition door opener. The s
 The objective of this repository is to implement an eye-blink detection-based face liveness detection algorithm to thwart photo attacks. The algorithm works in real time through a mobile device and detect face only if they blinked.
 
 Lets look into the video:
+
+https://user-images.githubusercontent.com/53623174/121777977-61c74a80-cbb2-11eb-9c41-75c6de0bcfc2.mp4
